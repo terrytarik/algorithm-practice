@@ -1,2 +1,2 @@
-# algorithm-practice-1
+# algorithm-practice
 Insertion sort and merge sort algorithms implement using Java
